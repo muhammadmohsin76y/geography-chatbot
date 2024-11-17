@@ -44,7 +44,7 @@
   background-color: #000000;
 }
 .responseContainer {
-  background-color: white; 
+  background-color: rgb(255, 127, 127); 
   padding: 20px; 
   border-radius: 10px; 
   box-shadow: 0px   
@@ -61,4 +61,6 @@
     cursor: pointer;
   color: #fff; 
 }
-
+.answerText {
+  color: #333; /* Set your desired color here */
+}

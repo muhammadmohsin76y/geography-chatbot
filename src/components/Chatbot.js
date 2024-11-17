@@ -346,11 +346,12 @@ const Chatbot = () => {
         {loading ? "Loading..." : "Get Explanation"}
       </button>
       {answer && (
-        <div className={styles.responseContainer}>
-          <h2 className={styles.responseTitle}>Answer:</h2>
-          <p>{answer}</p>
-        </div>
-      )}
+  <div className={styles.responseContainer}>
+    <h2 className={styles.responseTitle}>Answer:</h2>
+    <p className="answerText">{answer}</p>
+  </div>
+  )}
+
       {image && (
         <div className={styles.imageContainer}>
           <h3>Related Image:</h3>
