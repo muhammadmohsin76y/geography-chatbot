@@ -336,7 +336,7 @@ const Chatbot = () => {
 
   return (
     <div className={styles.chatbotContainer}>
-      <h1 className={styles.title}>This chat bot is made by MHZ developers <br></br><br></br>Geography Chatbot</h1>
+      <h1 className={styles.title}>This chat bot is made by MZ developers <br></br><br></br>Geography Chatbot</h1>
       <textarea
         className={styles.textarea}
         placeholder="Ask me about Geography, Pakistan, or CPEC..."
