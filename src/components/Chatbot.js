@@ -19,6 +19,7 @@ const Chatbot = () => {
 
     const validTopics = [ "pakistan", "cpec",   "continent",
       "country",
+      " natural disasters",               
       "city",
       "desert",
       "pakistan desert",
