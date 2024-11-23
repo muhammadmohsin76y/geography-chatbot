@@ -17,12 +17,12 @@ const Chatbot = () => {
       return;
     }
 
-    const validTopics = [ "earth","grography","grography of pakistan","what is grography","pakistan", "cpec","population", "distribution of population",
+    const validTopics = [ "earth","geography","geography of pakistan","what is geography","pakistan", "cpec","population", "distribution of population",
     "agriculture","industries","industries of pakistan",
     "transport network", 
     "transport routes", 
      "distribution of crops",
-    "distribution of cropsin pakistan",
+    "distribution of crops in pakistan",
       "continent",
       "country",
       " natural disasters",               
